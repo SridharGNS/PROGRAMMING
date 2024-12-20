@@ -13,6 +13,8 @@ public class FascinatingNumber {
         for(char i=1;i<=9;i++)
         {
 
+
+            
         }
     }
 }
